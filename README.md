@@ -1,6 +1,6 @@
 # Wordle
 
-<img src="https://i.imgur.com/lisgSOL.png" width="300" height="310"> <img src="https://i.imgur.com/vSIn59O.png" width="300" height="310"> <img src="https://i.imgur.com/dxMziXC.png" width="300" height="310">
+<img src="https://i.imgur.com/lisgSOL.png" width="300" height="310"> <img src="https://i.imgur.com/vSIn59O.png" width="300" height="310"> <img src="https://i.imgur.com/dxMziXC.png" width="300" height="310"> <img src="https://i.imgur.com/gCm5t9V.png" width="300" height="310">
 
 A Wordle clone written in C++ using the [OLC::PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine).
 
