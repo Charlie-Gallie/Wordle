@@ -63,6 +63,7 @@ public:
 						}
 					}
 				}
+				// Nesting incoming
 				if (key.Character == '+') {
 					if (gameState == GameState::DuringGame) {
 						if (!(std::find(typingBuffer.begin(), typingBuffer.end(), ' ') != typingBuffer.end())) {
