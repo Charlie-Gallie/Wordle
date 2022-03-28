@@ -75,8 +75,8 @@ int main() {
 	if (wordle.Construct(
 		400,	// X
 		400,	// Y
-		2,		// Scale X
-		2,		// Scale Y
+		2,	// Scale X
+		2,	// Scale Y
 		false,	// Fullscreen
 		true	// Vsync
 	)) wordle.Start();
