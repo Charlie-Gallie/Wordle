@@ -4,5 +4,6 @@
 
 A Wordle clone written in C++ using the [OLC::PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine).
 
-# How to use
-To compile, you need provide your compiler with [olcPixelGameEngine.h](https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/olcPixelGameEngine.h), then put a file containing five-letter words separated by new lines in the same directory as the executable, such as [this one](https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt). Make sure the file is named "words.txt".
+# How to Compile
+
+You need provide your compiler with [olcPixelGameEngine.h](https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/olcPixelGameEngine.h), then put a file containing five-letter words separated by new lines in the same directory as the executable, such as [this one](https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt). Make sure the file is named "words.txt".
